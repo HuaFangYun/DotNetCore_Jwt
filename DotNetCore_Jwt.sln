@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.161
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCore_Jwt_Server", "DotNetCore_Jwt_Server\DotNetCore_Jwt_Server.csproj", "{CCEDF2DA-E207-418D-9D31-3122F390E8B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCore_Jwt_Client", "DotNetCore_Jwt_Client\DotNetCore_Jwt_Client.csproj", "{768920EE-2CC8-42BA-8F08-28D6269607CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCEDF2DA-E207-418D-9D31-3122F390E8B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCEDF2DA-E207-418D-9D31-3122F390E8B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCEDF2DA-E207-418D-9D31-3122F390E8B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCEDF2DA-E207-418D-9D31-3122F390E8B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{768920EE-2CC8-42BA-8F08-28D6269607CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768920EE-2CC8-42BA-8F08-28D6269607CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768920EE-2CC8-42BA-8F08-28D6269607CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768920EE-2CC8-42BA-8F08-28D6269607CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {274FCF07-0DA9-4459-93F8-CA2F9A7ED210}
+	EndGlobalSection
+EndGlobal
